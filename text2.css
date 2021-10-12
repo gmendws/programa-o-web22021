@@ -1,0 +1,43 @@
+.line1{
+    font-size: 70px;
+}
+
+.logo-utf{
+    top: 200px;
+    position: relative;
+    left: 140px;
+    top: auto;
+    bottom: auto;
+    right: auto;
+}
+
+.list1{
+    list-style-type: square;
+    font: 20px Arial;
+}
+
+.green-back{
+    background-color: green;
+}
+
+.blue-back{
+    background-color: blue;
+}
+
+.red-back{
+    background-color: red;
+}
+
+.gray-back{
+    background-color: gray;
+}
+
+.list2{
+    list-style-type: circle;
+    font: 20px Arial;
+}
+
+.ordenation{
+    position: relative;
+    left: 200px;
+}
